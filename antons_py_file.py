@@ -1,0 +1,2 @@
+def anton(a):
+    pass
